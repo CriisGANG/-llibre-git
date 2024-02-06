@@ -1,1 +1,2 @@
-"Referència: AutorX, Títol de l'article, Revista, Volum 1, Pàgines 1-10, Any 2024" 
+"Chacon, S. and Straub, B. Pro Git. Apress." 
+"Loeliger, J. and McCullough, M. Version control with Git. O’Reilly." 
